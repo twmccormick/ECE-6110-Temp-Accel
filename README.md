@@ -1,4 +1,4 @@
-# ECE 6110 Temperature Accelermoter
+# ECE 6110 Temperature Accelerometer
 
 ECE 6110 - Tyler McCormick - Assignment 2
 
