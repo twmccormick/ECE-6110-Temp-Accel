@@ -1,4 +1,6 @@
-# ECE-6110-Temp-Accel
+# ECE 6110 Temperature Accelermoter
+
+ECE 6110 - Tyler McCormick - Assignment 2
 
 This code is mainly a demo for reading sensor values over I2C and then displaying them
 over UART on the B-L475E-IOT01A1 development board.
